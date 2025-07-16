@@ -11,4 +11,8 @@
 -remove ethernet <br>
 -remove mini hdmi (who even uses ts ong) <br>
 -remove usb port <br>
-[cm5](https://www.waveshare.com/compute-module-5.htm?sku=30858)
+[cm5](https://www.waveshare.com/compute-module-5.htm?sku=30858) <br>
+[speaker??](https://www.amazon.com/Speaker-Speakers-Compatible-Loudspeaker-Player/dp/B0C49TKSQQ?gQT=1&th=1) <br>
+[audio amp breakout board](https://www.adafruit.com/product/3006?srsltid=AfmBOororF13BAM4SICgoZqjZRcs-jqPqV8cmwxLKtsPSvOPzihqbcjR) <br>
+[I2S MEMS mic](https://www.adafruit.com/product/3421?srsltid=AfmBOoqN4LfGS49t9aQ05JaZ2kHrqCDZ-E7FsbdZdDf7Enks-rBCI4Se) <br>
+[camera????](https://www.arducam.com/64mp-af-for-raspberry-pi.html) <br>
