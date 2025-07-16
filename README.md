@@ -3,7 +3,7 @@
 -remove usbc port <br>
 [5g cellular module](https://www.waveshare.com/rm520n-gl.htm) <br>
 [RM502x 5G HAT](https://www.waveshare.com/rm500u-cn-5g-hat.htm?sku=22341) <br>
--remove antenna connectors??? maybe <br>
+-remove 3rd and 4th antenna connectors?? <br>
 -idk i'll check out what i can do about the fan <br>
 -remove usb port <br>
 -remove usbc port <br>
