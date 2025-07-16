@@ -16,3 +16,4 @@
 [audio amp breakout board](https://www.adafruit.com/product/3006?srsltid=AfmBOororF13BAM4SICgoZqjZRcs-jqPqV8cmwxLKtsPSvOPzihqbcjR) <br>
 [I2S MEMS mic](https://www.adafruit.com/product/3421?srsltid=AfmBOoqN4LfGS49t9aQ05JaZ2kHrqCDZ-E7FsbdZdDf7Enks-rBCI4Se) <br>
 [camera????](https://www.arducam.com/64mp-af-for-raspberry-pi.html) <br>
+battery tbd
